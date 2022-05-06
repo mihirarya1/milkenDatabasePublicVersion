@@ -1,0 +1,3 @@
+USE dh199;
+
+LOAD DATA LOCAL INFILE '/Users/mihirarya/dh199/poc/rsa.csv' INTO TABLE rsa FIELDS TERMINATED BY ',' ENCLOSED BY '"';

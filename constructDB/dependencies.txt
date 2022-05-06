@@ -1,0 +1,35 @@
+List of dependent files, for all scripts in this folder:
+
+1. Referred in createMainTables.sql:
+  /Users/mihirarya/dh199/rawData/generalApproach/milkenMain.csv
+  /Users/mihirarya/dh199/rawData/generalApproach/rsaMain.csv
+  /Users/mihirarya/dh199/rawData/generalApproach/swoodMain.csv
+  /Users/mihirarya/dh199/rawData/generalApproach/pennMain.csv
+  /Users/mihirarya/dh199/rawData/generalApproach/pennMainTitle.csv
+ 
+2. Referred in createArtists.sql:
+  /Users/mihirarya/dh199/rawData/generalApproach/pennArtists.csv
+  /Users/mihirarya/dh199/rawData/generalApproach/swoodArtistsModified.csv
+  
+3. Referred in createRolesTable.sql:
+  /Users/mihirarya/dh199/rawData/generalApproach/pennRoles.csv
+  /Users/mihirarya/dh199/dataCleaning/swoodtrackRoleArtist.csv
+  
+4. Referred in createAlbum.sql:
+  /Users/mihirarya/dh199/rawData/generalApproach/pennAlbum.csv
+  /Users/mihirarya/dh199/rawData/generalApproach/dmouthAlbum.csv
+  
+5. Referred in ga5.sql:
+  /Users/mihirarya/dh199/rawData/generalApproach/pennSheetMusic.csv
+  /Users/mihirarya/dh199/rawData/generalApproach/pennSheetMusicSeriesName.csv
+  /Users/mihirarya/dh199/rawData/generalApproach/pennHebrewTitle.csv
+  
+6. Referred in ga6.sql:
+  /Users/mihirarya/dh199/rawData/generalApproach/pennAlternativeTitle.csv
+  /Users/mihirarya/dh199/rawData/generalApproach/pennTrackToTitle.csv
+  /Users/mihirarya/dh199/rawData/generalApproach/pennSheetMusicToTitle.csv
+  
+7. Referred in ga10.sql:
+  musicDBImages/Benny-Goodman.jpeg
+  /Users/mihirarya/dh199/authority/altNamesNew.csv
+  

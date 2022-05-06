@@ -1,0 +1,4 @@
+M275~Kol nidre~1953~-~\N~M275~4~Sholom Secunda~10.08~0~Sacred~Choral-Solo~Liturgical-Setting(s)~Liturgical-Setting(s)~~0~0~0~0~0~0~0~0~0~0~0~0~0~0~0~0~0~0~0~0~Y~Liturgy~0~0~0~0~0~0~x~\N~\N~\N
+M405~Kol nidre~1938~-~\N~M405~7~Arnold Schoenberg~14.05~0~Sacred~Orchestra-Choral-Solo~Liturgical-Service~Liturgical-Service~~0~0~0~0~0~0~0~0~0~0~0~0~0~0~0~0~0~0~0~0~Y~Liturgical Adaptation~0~0~0~0~0~0~~\N~\N~\N
+M524~Kol nidre~1996~-~\N~M524~10~John Zorn~6.48~0~Art~Chamber~TCSM-Instrumental~Through-Composed Single Movement~modernism/string quartet~0~0~0~0~0~0~0~0~0~0~0~0~0~0~0~0~0~0~0~0~N~~0~0~0~0~0~0~~\N~\N~\N
+M276~Kol Nidrei~1881~-~\N~M276~4~Max Bruch~10.10~0~Sacred~Chamber-Solo~Liturgical-Setting(s)~Liturgical-Setting(s)~~0~0~0~0~0~0~0~0~0~0~0~0~0~0~0~0~0~0~0~0~N~~0~0~0~0~0~0~~\N~\N~\N

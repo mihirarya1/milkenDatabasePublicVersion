@@ -1,0 +1,41 @@
+S4449~Der Nayer Kol Nidre~1923~1923~~S4449~16.232~59801-~NY~Cantor & Tenor, Orchestra
+S4239~Die Neuer ''Kol Nidre''~1922~12/19/1922~~S4239~16.223~C 27245-3~NY~Chorus, ten, bar, bs, orch, cantor
+S4243~Die Neuer ''Kol Nidre''~1923~4/4/1923~~S4243~16.223~C 27863-2~NY~vln, fl, vla, vc, org, cantor
+S3028~Kol Nidre~1911~1911-2~~S3028~16.162~x~NY~Vocal
+S4021~Kol Nidre~1920~11/1920~~S4021~16.216~41309-2~NY~Tenor & Organ
+S4144~Kol Nidre~1913~7/3/1913~~S4144~16.223~C 13522-1~NY~Organ & Cantor
+S4324~Kol Nidre~1916~2/11/1916~with mixed quartet~S4324~16.224~C 17140-2~NY~Tenor & Organ, Quartet
+S4954~Kol Nidre~1901~9/5/1901~~S4954~16.254~A 932-1~NY~Baritone
+S4955~Kol Nidre~1901~9/5/1901~~S4955~16.254~M 3534-1~NY~Baritone
+S4984~Kol Nidre~1901~1901~~S4984~16.254~209-5~NY~Baritone, Piano
+S4985~Kol Nidre~1901~1901~MEYER GOLDIN's recording of ''Kol Nidrei'' was also issued on Co A546.~S4985~16.254~209-~NY~Baritone, Piano
+S4986~Kol Nidre~1901~1901~~S4986~16.254~x~NY~Baritone, Piano
+S5045~Kol Nidre~1901~1901-3~~S5045~16.254~x~NY~Baritone, Piano
+S5088~Kol Nidre~1904~6/2/1904~~S5088~16.254~A 1397-~NY~Baritone
+S5089~Kol Nidre~1904~6/2/1904~~S5089~16.254~B 1397-~NY~Baritone
+S5159~Kol Nidre~1923~9/5/1923~~S5159~16.260~9138~NY~Tenor, Orchestra
+S5407~Kol Nidre~1904~1904~~S5407~16.271~4103~NY~Tenor, p
+S5566~Kol Nidre~1911~1911~~S5566~16.279~x~NY~Vocal
+S5731~Kol Nidre~1916~1916~~S5731~16.297~269~NY~Cantor, Organ
+S5905~Kol Nidre~1913~4/5/1913~~S5905~16.315~38767-1~NY~Accordian, Cymbal
+S1020~Kol Nidre ~1904~07/08/1904~Never issued on Vi~S1020~16.850~B 1567-1 ~NY~Vocal & Quartet (?)
+S5787~Kol Nidre ~1940~1940~~S5787~16.305~200~NY~Cantor, Organ
+S597~Kol Nidre ~1900~1900-01~~S597~16.530~x~NY~Vocal 
+S2706~Kol Nidre - Pt. 1~1922~12/1922~~S2706~16.154~X 9592~NY~Voice & Organ
+S2707~Kol Nidre - Pt. 2~1922~12/1922~~S2707~16.154~X 9594~NY~Voice & Organ
+S3997~Kol Nidre (All Vows)~1928~8/21/1928~10-man orchestra~S3997~16.214~XE 28119-~NY~Tenor, Orchestra & Cantor
+S3998~Kol Nidre (All Vows)~1928~8/23/1928~10-man orchestra~S3998~16.214~XE 28143-~NY~Tenor, Orchestra & Cantor
+S4292~Kol Nidre (All Vows)~1927~Summer 1927~~S4292~16.223~x~NY~Orchestra & Cantor
+S4545~Kol Nidre (All Vows)-Pt. 1~1939~2/15/1939~~S4545~16.237~65031-A~NY~Vocal & Organ
+S4546~Kol Nidre (All Vows)-Pt. 2~1939~2/15/1939~~S4546~16.237~65032-A~NY~Vocal & Organ
+S3979~Kol Nidre: Izkhor~1909~11/1909~with Kalman Juvelier~S3979~16.212~9689~NY~Soprano & Orchestra
+S2500~Kol Nidre: Kol Nidre~1905~1905~~S2500~16.139~x~NY~Voice, Chorus, piano
+S4098~Kol Nidrei~1923~8/1923~~S4098~16.220~578-2~NY~Tenor
+S4197~Kol Nidrei~1916~1916-7~~S4197~16.223~59436-3~NY~Cantor
+S5571~Kol Nidrei~1917~1917-8~~S5571~16.281~x~NY~Baritone
+S1067~Kol Nidrei ~1905~01/1905~~S1067~16.850~3010~NY~Solo Vocal
+S1068~Kol Nidrei ~1905~01/1905~~S1068~16.850~M 33-1 ~NY~Solo Vocal
+S4312~Kol Nidrei (Prayer On The Day Of Atonement)~1929~12/19/1929~~S4312~16.223~CVE 57883-1~Camden, NJ~Organ & Cantor
+S4316~Kol Nidrei (Prayer On The Day Of Atonement)~1930~5/2/1930~Gramola ESi is a Czechoslovak issue~S4316~16.223~CVE 57883-2~Camden, NJ~Organ & Cantor
+S5389~Kol Nidrey~1904~1904~~S5389~16.271~x~NY~Tenor
+S5878~Kol Nidrey~1911~5/19/1911~~S5878~16.313~30772-~NY~Cantor, Tenor, Choir
